@@ -1,7 +1,6 @@
 
 <h1>سلام به وب سایت من خوش اومدین</h1>
 <p>
-I’m Parham Hasani
-A Master’s student in Artificial intelligence. Besides AI and its methods such as machine learning, Data mining and Deep learning I’m learning Neuroscience to helping Alzheimer’s patients. 
+من پرهام هستم، دانشجویی کارشناسی ارشد هوش‌مصنوعی. دوست دارم پروژه‌ها و کارهامو اینجا با شما اشتراک بزارم. 
 here I collect my projects:)</p>
 
